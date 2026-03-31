@@ -17,7 +17,7 @@ Senior Python Full Stack Developer with 8+ years of experience building scalable
 # 📊 GitHub Stats:
 ![Preethi's GitHub stats](https://github-readme-stats.vercel.app/api?username=Rpreethi26&show_icons=true&theme=radical)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
 
 ## Focus
 - Full Stack Development
