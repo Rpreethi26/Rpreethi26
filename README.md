@@ -2,6 +2,11 @@
 
 Senior Python Full Stack Developer with 8+ years of experience building scalable and secure applications.
 
+## 🚀 Key Projects
+- AI Analytics Dashboard – Real-time data visualization with Python & React  
+- Secure Auth System – JWT-based authentication with role-based access  
+- Full Stack Web App – CRUD application with API integration and database design  
+
 ## Tech Stack
 - Python, Django, Flask
 - React, Angular
